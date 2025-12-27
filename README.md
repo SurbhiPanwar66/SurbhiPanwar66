@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
+I am a cybersecurity fresher.
+I am building my skills through hands-on practice.
+I am intrested in penetration testing.
 
-<!--
-**SurbhiPanwar66/SurbhiPanwar66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Web Application Security
+- OWASP Top 10
+- Basic Network Security
+- Android Security Basics
 
-Here are some ideas to get you started:
+## Tools
+- Burp Suite
+- Nmap
+- Metasploit
+- adb
+- jadx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Practice & Learning
+- TryHackMe labs
+- Vulnerable web application testing 
+- Android Security Basics
+
+## Goal
+To become a skilled penetration tester.
