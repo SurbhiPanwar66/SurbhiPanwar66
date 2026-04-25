@@ -30,5 +30,5 @@ I am actively building my skills through hands-on practice, labs, and real-world
 To become a Cybersecurity Professional.
 
 ## 📫 Connect with Me
-- LinkedIn: (Add your link)
-- GitHub: (Your profile link)
+- LinkedIn: https://www.linkedin.com/in/surbhipanwar44/
+- GitHub: https://github.com/SurbhiPanwar66
